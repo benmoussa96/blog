@@ -41,8 +41,8 @@ This simple Node/Express/React application was built in the context of the Udemy
 
 ## Authors
 
-Ghaieth Ben Moussa  
-[ghaieth96](https://github.com/benmoussa96)
+* Ghaieth Ben Moussa
+    [ghaieth96](https://github.com/benmoussa96)
 
 ## Version History
 
@@ -51,5 +51,5 @@ Ghaieth Ben Moussa
 
 ## Acknowledgments
 
-Stephen Grider
-[StephenGrider](https://github.com/StephenGrider)
+* Stephen Grider
+    [StephenGrider](https://github.com/StephenGrider)

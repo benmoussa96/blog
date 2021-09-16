@@ -30,11 +30,11 @@ This simple Node/Express/React application was built in the context of the Udemy
 
 ### Executing program
 
-2. change into repo directory
+2. Change into repo directory
     ```
-    cd blog/
+    cd blog
     ```
-3. With Docker and Skaffold instaled run the following command
+3. With Skaffold and Docker instaled run the following command
     ```
     skaffold dev
     ```
